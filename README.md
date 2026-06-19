@@ -1,0 +1,6 @@
+- functionality
+- design
+- how to install and run
+- obtain the data from https://github.com/DataTalksClub/llm-zoomcamp/blob/main/cohorts/2026/01-agentic-rag/homework.md
+- usage of ollama local model instead of openapi models. what needs to be changed to run notebook naive rag with openai models.
+- usage of aisuite Agent API for agent rag. Brief description of how using search tool needs to be implemented following https://github.com/DataTalksClub/llm-zoomcamp/tree/main/01-agentic-rag/lessons
