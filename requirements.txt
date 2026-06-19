@@ -1,0 +1,6 @@
+ipykernel
+git+https://github.com/andrewyng/aisuite.git@cc84a05273d4da01434e6e2d38de39baee00f9fa
+openai
+python-dotenv
+gitsource
+sqlitesearch

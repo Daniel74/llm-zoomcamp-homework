@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.env
+
+# Ignore SQLite databases and temporary logs
+*.db
+*.db-wal
+*.db-shm
